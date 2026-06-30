@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", () => {
 
     // Launch Date
-    const launchDate = new Date("January 8, 2027 00:00:00").getTime();
+    const launchDate = new Date("March 8, 2027 00:00:00").getTime();
 
     // Countdown
     function updateCountdown() {
